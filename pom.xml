@@ -31,11 +31,12 @@
 				<cloudHubDeployment>
 				<username>prasanthkesetti9</username>
 				<password>Apisero@1</password>
-				<environment>Dev</environment>
+				<environment>DEV</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>Helloword</applicationName>
 				<muleVersion>4.2.2</muleVersion>
+				<businessGroup>preproductionBG</businessGroup>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
